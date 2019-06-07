@@ -1,0 +1,11 @@
+/Users/itgracian/Documents/crazy/C#/App/bin/Debug/netcoreapp2.2/App.deps.json
+/Users/itgracian/Documents/crazy/C#/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.json
+/Users/itgracian/Documents/crazy/C#/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.dev.json
+/Users/itgracian/Documents/crazy/C#/App/bin/Debug/netcoreapp2.2/App.dll
+/Users/itgracian/Documents/crazy/C#/App/bin/Debug/netcoreapp2.2/App.pdb
+/Users/itgracian/Documents/crazy/C#/App/obj/Debug/netcoreapp2.2/App.csprojAssemblyReference.cache
+/Users/itgracian/Documents/crazy/C#/App/obj/Debug/netcoreapp2.2/App.csproj.CoreCompileInputs.cache
+/Users/itgracian/Documents/crazy/C#/App/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache
+/Users/itgracian/Documents/crazy/C#/App/obj/Debug/netcoreapp2.2/App.AssemblyInfo.cs
+/Users/itgracian/Documents/crazy/C#/App/obj/Debug/netcoreapp2.2/App.dll
+/Users/itgracian/Documents/crazy/C#/App/obj/Debug/netcoreapp2.2/App.pdb
